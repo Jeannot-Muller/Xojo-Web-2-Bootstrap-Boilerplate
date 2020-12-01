@@ -1,5 +1,5 @@
 # Xojo Web 2 Bootstrap Boilerplate
-Bootstrap efault scheme for customization
+Bootstrap default scheme for customization
 
 You can find further instructions here: 
 
