@@ -3,4 +3,4 @@ Bootstrap default scheme for customization
 
 You can find further instructions here: 
 
-https://medium.com/learn-xojo/how-to-customize-xojo-web-2-f2941f6f73dc?sk=143e3a643771973c94f865d7b7584a21
+https://xojo.jeannot-muller.com/how-to-customize-xojo-web-2-objects-ca406fdf99cd
